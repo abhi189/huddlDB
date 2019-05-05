@@ -1,6 +1,6 @@
 # huddlDB
 
 Repository to contain json files which would be accessed 
-using JSON-SERVER using git repo name and username.
+using JSON-SERVER.
 
-example url: https://my-json-server.typicode.com/<your-username>/<your-repo>
+Example: https://my-json-server.typicode.com/{{your-username}}/{{your-repo}}
