@@ -2,201 +2,201 @@
     "posts": [
         {
             "id": 1,
-            "title": "Sample Post",
-            "content": "This is a sample post content just to verify the api...",
+            "title": "The standard Lorem Ipsum passage, ",
+            "content": "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
             "userId": 1
         },
         {
             "id": 2,
-            "title": "Sample Post",
-            "content": "This is a sample post content just to verify the api...",
+            "title": "The standard Lorem Ipsum passage, ",
+            "content": "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
             "userId": 2
         },
         {
             "id": 3,
-            "title": "Sample Post",
-            "content": "This is a sample post content just to verify the api...",
+            "title": "There is no one who loves pain itself, who seeks after it and wants to have it, simply because it is pain...",
+            "content": "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
             "userId": 3
         },
         {
             "id": 4,
-            "title": "Sample Post",
-            "content": "This is a sample post content just to verify the api...",
+            "title": "There is no one who loves pain itself, who seeks after it and wants to have it, simply because it is pain...",
+            "content": "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
             "userId": 3
         },
         {
             "id": 5,
-            "title": "Sample Post",
-            "content": "This is a sample post content just to verify the api...",
+            "title": "There is no one who loves pain itself, who seeks after it and wants to have it, simply because it is pain...",
+            "content": "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
             "userId": 3
         },
         {
             "id": 6,
-            "title": "Sample Post",
-            "content": "This is a sample post content just to verify the api...",
+            "title": "Up unpacked friendly ecstatic so possible humoured do.",
+            "content": "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
             "userId": 1
         },
         {
             "id": 7,
-            "title": "Sample Post",
-            "content": "This is a sample post content just to verify the api...",
+            "title": "Up unpacked friendly ecstatic so possible humoured do.",
+            "content": "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
             "userId": 2
         },
         {
             "id": 8,
-            "title": "Sample Post",
-            "content": "This is a sample post content just to verify the api...",
+            "title": "Up unpacked friendly ecstatic so possible humoured do.",
+            "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
             "userId": 4
         },
         {
             "id": 9,
-            "title": "Sample Post",
-            "content": "This is a sample post content just to verify the api...",
+            "title": "Up unpacked friendly ecstatic so possible humoured do.",
+            "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
             "userId": 4
         }
     ],
     "comments": [
         {
             "id": 1,
-            "title": "Sample Commnet",
-            "content": "This is a sample post content just to verify the api...",
+            "title": "What is Lorem Ipsum?",
+            "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
             "userId": 1,
             "postId": 1
         },
         {
             "id": 2,
-            "title": "Sample Commnet",
-            "content": "This is a sample post content just to verify the api...",
+            "title": "What is Lorem Ipsum?",
+            "content": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
             "userId": 1,
-            "postId": 2
+            "postId": 8
         },
         {
             "id": 3,
-            "title": "Sample Commnet",
-            "content": "This is a sample post content just to verify the api...",
+            "title": "What is Lorem Ipsum?",
+            "content": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
             "userId": 2,
             "postId": 2
         },
         {
             "id": 4,
-            "title": "Sample Commnet",
-            "content": "This is a sample post content just to verify the api...",
+            "title": "What is Lorem Ipsum?",
+            "content": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
             "userId": 3,
             "postId": 6
         },
         {
             "id": 5,
-            "title": "Sample Commnet",
-            "content": "This is a sample post content just to verify the api...",
+            "title": "Where does it come from?",
+            "content": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
             "userId": 3,
             "postId": 4
         },
         {
             "id": 6,
-            "title": "Sample Commnet",
-            "content": "This is a sample post content just to verify the api...",
+            "title": "Where does it come from?",
+            "content": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
             "userId": 2,
             "postId": 1
         },
         {
             "id": 7,
-            "title": "Sample Commnet",
-            "content": "This is a sample post content just to verify the api...",
+            "title": "Where does it come from?",
+            "content": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
             "userId": 1,
             "postId": 5
         },
         {
             "id": 8,
-            "title": "Sample Commnet",
-            "content": "This is a sample post content just to verify the api...",
+            "title": "Where does it come from?",
+            "content": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
             "userId": 2,
             "postId": 5
         },
         {
             "id": 9,
-            "title": "Sample Commnet",
-            "content": "This is a sample post content just to verify the api...",
+            "title": "Where does it come from?",
+            "content": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
             "userId": 1,
             "postId": 1
         },
         {
             "id": 10,
-            "title": "Sample Commnet",
-            "content": "This is a sample post content just to verify the api...",
+            "title": "Where can I get some?",
+            "content": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
             "userId": 4,
             "postId": 4
         },
         {
             "id": 11,
-            "title": "Sample Commnet",
-            "content": "This is a sample post content just to verify the api...",
+            "title": "Where can I get some?",
+            "content": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
             "userId": 3,
             "postId": 2
         },
         {
             "id": 12,
-            "title": "Sample Commnet",
-            "content": "This is a sample post content just to verify the api...",
+            "title": "Where can I get some?",
+            "content": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
             "userId": 2,
-            "postId": 1
+            "postId": 7
         },
         {
             "id": 13,
-            "title": "Sample Commnet",
-            "content": "This is a sample post content just to verify the api...",
+            "title": "Where can I get some?",
+            "content": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
             "userId": 2,
             "postId": 1
         },
         {
             "id": 14,
-            "title": "Sample Commnet",
-            "content": "This is a sample post content just to verify the api...",
+            "title": "Where can I get some?",
+            "content": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
             "userId": 3,
             "postId": 4
         },
         {
             "id": 15,
             "title": "Sample Commnet",
-            "content": "This is a sample post content just to verify the api...",
+            "content": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
             "userId": 4,
-            "postId": 2
+            "postId": 9
         }
     ],
     "users": [
         {
             "id": 1,
-            "name": "Sample User",
-            "username": "",
-            "email": "",
-            "organisation": "",
-            "bio": "",
+            "name": "reddy",
+            "username": "reddysridhar53",
+            "email": "reddysridhar53@gmail.com",
+            "organisation": "Toppr",
+            "bio": "Javascript Enthusiast... Impulsive to learning...",
             "postIds": [1, 6]
         },
         {
             "id": 2,
-            "name": "Sample User",
-            "username": "",
-            "email": "",
-            "organisation": "",
-            "bio": "",
+            "name": "sridhar",
+            "username": "sridhar_reddy",
+            "email": "reddysridhar53@gmail.com",
+            "organisation": "Shaw",
+            "bio": "Javascript Enthusiast... Impulsive to learning...",
             "postIds": [2,7]
         },
         {
             "id": 3,
-            "name": "Sample User",
-            "username": "",
-            "email": "",
-            "organisation": "",
-            "bio": "",
+            "name": "john",
+            "username": "john243779",
+            "email": "john243779@gmail.com",
+            "organisation": "Huddl",
+            "bio": "Javascript Enthusiast... Impulsive to learning...",
             "postIds": [3,4,5]
         },
         {
             "id": 4,
-            "name": "Sample User",
-            "username": "",
-            "email": "",
-            "organisation": "",
-            "bio": "",
+            "name": "mark",
+            "username": "mark143",
+            "email": "mark143@hotmail.com",
+            "organisation": "Huddl AI",
+            "bio": "Javascript Enthusiast... Impulsive to learning...",
             "postIds": [8,9]
         }
     ]
