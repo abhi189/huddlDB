@@ -3,55 +3,55 @@
         {
             "id": 1,
             "title": "The standard Lorem Ipsum passage, ",
-            "content": "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+            "content": "is simply dummy text of the printing and typesetting industry.",
             "userId": 1
         },
         {
             "id": 2,
             "title": "The standard Lorem Ipsum passage, ",
-            "content": "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+            "content": "is simply dummy text of the printing and typesetting industry.",
             "userId": 2
         },
         {
             "id": 3,
             "title": "There is no one who loves pain itself, who seeks after it and wants to have it, simply because it is pain...",
-            "content": "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+            "content": "is simply dummy text of the printing and typesetting industry.",
             "userId": 3
         },
         {
             "id": 4,
             "title": "There is no one who loves pain itself, who seeks after it and wants to have it, simply because it is pain...",
-            "content": "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+            "content": "is simply dummy text of the printing and typesetting industry.",
             "userId": 3
         },
         {
             "id": 5,
             "title": "There is no one who loves pain itself, who seeks after it and wants to have it, simply because it is pain...",
-            "content": "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+            "content": "is simply dummy text of the printing and typesetting industry.",
             "userId": 3
         },
         {
             "id": 6,
             "title": "Up unpacked friendly ecstatic so possible humoured do.",
-            "content": "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+            "content": "is simply dummy text of the printing and typesetting industry.",
             "userId": 1
         },
         {
             "id": 7,
             "title": "Up unpacked friendly ecstatic so possible humoured do.",
-            "content": "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+            "content": "is simply dummy text of the printing and typesetting industry.",
             "userId": 2
         },
         {
             "id": 8,
             "title": "Up unpacked friendly ecstatic so possible humoured do.",
-            "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+            "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
             "userId": 4
         },
         {
             "id": 9,
             "title": "Up unpacked friendly ecstatic so possible humoured do.",
-            "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+            "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
             "userId": 4
         }
     ],
@@ -59,98 +59,98 @@
         {
             "id": 1,
             "title": "What is Lorem Ipsum?",
-            "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+            "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
             "userId": 1,
             "postId": 1
         },
         {
             "id": 2,
             "title": "What is Lorem Ipsum?",
-            "content": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+            "content": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour.",
             "userId": 1,
             "postId": 8
         },
         {
             "id": 3,
             "title": "What is Lorem Ipsum?",
-            "content": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+            "content": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour.",
             "userId": 2,
             "postId": 2
         },
         {
             "id": 4,
             "title": "What is Lorem Ipsum?",
-            "content": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+            "content": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour.",
             "userId": 3,
             "postId": 6
         },
         {
             "id": 5,
             "title": "Where does it come from?",
-            "content": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+            "content": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour.",
             "userId": 3,
             "postId": 4
         },
         {
             "id": 6,
             "title": "Where does it come from?",
-            "content": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+            "content": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour.",
             "userId": 2,
             "postId": 1
         },
         {
             "id": 7,
             "title": "Where does it come from?",
-            "content": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+            "content": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour.",
             "userId": 1,
             "postId": 5
         },
         {
             "id": 8,
             "title": "Where does it come from?",
-            "content": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+            "content": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour.",
             "userId": 2,
             "postId": 5
         },
         {
             "id": 9,
             "title": "Where does it come from?",
-            "content": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+            "content": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour.",
             "userId": 1,
             "postId": 1
         },
         {
             "id": 10,
             "title": "Where can I get some?",
-            "content": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+            "content": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour.",
             "userId": 4,
             "postId": 4
         },
         {
             "id": 11,
             "title": "Where can I get some?",
-            "content": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+            "content": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour.",
             "userId": 3,
             "postId": 2
         },
         {
             "id": 12,
             "title": "Where can I get some?",
-            "content": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+            "content": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour.",
             "userId": 2,
             "postId": 7
         },
         {
             "id": 13,
             "title": "Where can I get some?",
-            "content": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+            "content": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour.",
             "userId": 2,
             "postId": 1
         },
         {
             "id": 14,
             "title": "Where can I get some?",
-            "content": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+            "content": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour.",
             "userId": 3,
             "postId": 4
         },
