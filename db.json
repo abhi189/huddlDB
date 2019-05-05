@@ -1,0 +1,30 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": "Sample Post",
+            "content": "This is a sample post content just to verify the api...",
+            "userId": 1
+        }
+    ],
+    "comments": [
+        {
+            "id": 1,
+            "title": "Sample Commnet",
+            "content": "This is a sample post content just to verify the api...",
+            "userId": 1,
+            "postId": 1
+        }
+    ],
+    "users": [
+        {
+            "id": 1,
+            "name": "Sample User",
+            "username": "",
+            "email": "",
+            "organisation": "",
+            "bio": "",
+            "postIds": [1]
+        }
+    ]
+}
