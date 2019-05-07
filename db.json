@@ -5,63 +5,63 @@
             "title": "The standard Lorem Ipsum passage, ",
             "content": "is simply dummy text of the printing and typesetting industry.",
             "userId": 1,
-            "comments": [1, 6, 9, 13]
+            "commentIds": [1, 6, 9, 13]
         },
         {
             "id": 2,
             "title": "The standard Lorem Ipsum passage, ",
             "content": "is simply dummy text of the printing and typesetting industry.",
             "userId": 2,
-            "comments": [3, 11]
+            "commentIds": [3, 11]
         },
         {
             "id": 3,
             "title": "There is no one who loves pain itself.",
             "content": "is simply dummy text of the printing and typesetting industry.",
             "userId": 3,
-            "comments": []
+            "commentIds": []
         },
         {
             "id": 4,
             "title": "There is no one who loves pain itself.",
             "content": "is simply dummy text of the printing and typesetting industry.",
             "userId": 3,
-            "comments": [5, 10, 14]
+            "commentIds": [5, 10, 14]
         },
         {
             "id": 5,
             "title": "There is no one who loves pain itself.",
             "content": "is simply dummy text of the printing and typesetting industry.",
             "userId": 3,
-            "comments": [7, 8]
+            "commentIds": [7, 8]
         },
         {
             "id": 6,
             "title": "Up unpacked friendly ecstatic so possible humoured do.",
             "content": "is simply dummy text of the printing and typesetting industry.",
             "userId": 1,
-            "comments": [4]
+            "commentIds": [4]
         },
         {
             "id": 7,
             "title": "Up unpacked friendly ecstatic so possible humoured do.",
             "content": "is simply dummy text of the printing and typesetting industry.",
             "userId": 2,
-            "comments": [12]
+            "commentIds": [12]
         },
         {
             "id": 8,
             "title": "Up unpacked friendly ecstatic so possible humoured do.",
             "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
             "userId": 4,
-            "comments": [2]
+            "commentIds": [2]
         },
         {
             "id": 9,
             "title": "Up unpacked friendly ecstatic so possible humoured do.",
             "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
             "userId": 4,
-            "comments": [15]
+            "commentIds": [15]
         }
     ],
     "comments": [
