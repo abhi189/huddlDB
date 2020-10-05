@@ -1,212 +1,647 @@
 {
-    "posts": [
-        {
-            "id": 1,
-            "title": "The standard Lorem Ipsum passage, ",
-            "content": "is simply dummy text of the printing and typesetting industry.",
-            "userId": 1,
-            "commentIds": [1, 6, 9, 13]
-        },
-        {
-            "id": 2,
-            "title": "The standard Lorem Ipsum passage, ",
-            "content": "is simply dummy text of the printing and typesetting industry.",
-            "userId": 2,
-            "commentIds": [3, 11]
-        },
-        {
-            "id": 3,
-            "title": "There is no one who loves pain itself.",
-            "content": "is simply dummy text of the printing and typesetting industry.",
-            "userId": 3,
-            "commentIds": []
-        },
-        {
-            "id": 4,
-            "title": "There is no one who loves pain itself.",
-            "content": "is simply dummy text of the printing and typesetting industry.",
-            "userId": 3,
-            "commentIds": [5, 10, 14]
-        },
-        {
-            "id": 5,
-            "title": "There is no one who loves pain itself.",
-            "content": "is simply dummy text of the printing and typesetting industry.",
-            "userId": 3,
-            "commentIds": [7, 8]
-        },
-        {
-            "id": 6,
-            "title": "Up unpacked friendly ecstatic so possible humoured do.",
-            "content": "is simply dummy text of the printing and typesetting industry.",
-            "userId": 1,
-            "commentIds": [4]
-        },
-        {
-            "id": 7,
-            "title": "Up unpacked friendly ecstatic so possible humoured do.",
-            "content": "is simply dummy text of the printing and typesetting industry.",
-            "userId": 2,
-            "commentIds": [12]
-        },
-        {
-            "id": 8,
-            "title": "Up unpacked friendly ecstatic so possible humoured do.",
-            "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
-            "userId": 4,
-            "commentIds": [2]
-        },
-        {
-            "id": 9,
-            "title": "Up unpacked friendly ecstatic so possible humoured do.",
-            "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
-            "userId": 4,
-            "commentIds": [15]
-        }
-    ],
-    "comments": [
-        {
-            "id": 1,
-            "title": "What is Lorem Ipsum?",
-            "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
-            "userId": 1,
-            "postId": 1
-        },
-        {
-            "id": 2,
-            "title": "What is Lorem Ipsum?",
-            "content": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour.",
-            "userId": 1,
-            "postId": 8
-        },
-        {
-            "id": 3,
-            "title": "What is Lorem Ipsum?",
-            "content": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour.",
-            "userId": 2,
-            "postId": 2
-        },
-        {
-            "id": 4,
-            "title": "What is Lorem Ipsum?",
-            "content": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour.",
-            "userId": 3,
-            "postId": 6
-        },
-        {
-            "id": 5,
-            "title": "Where does it come from?",
-            "content": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour.",
-            "userId": 3,
-            "postId": 4
-        },
-        {
-            "id": 6,
-            "title": "Where does it come from?",
-            "content": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour.",
-            "userId": 2,
-            "postId": 1
-        },
-        {
-            "id": 7,
-            "title": "Where does it come from?",
-            "content": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour.",
-            "userId": 1,
-            "postId": 5
-        },
-        {
-            "id": 8,
-            "title": "Where does it come from?",
-            "content": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour.",
-            "userId": 2,
-            "postId": 5
-        },
-        {
-            "id": 9,
-            "title": "Where does it come from?",
-            "content": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour.",
-            "userId": 1,
-            "postId": 1
-        },
-        {
-            "id": 10,
-            "title": "Where can I get some?",
-            "content": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour.",
-            "userId": 4,
-            "postId": 4
-        },
-        {
-            "id": 11,
-            "title": "Where can I get some?",
-            "content": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour.",
-            "userId": 3,
-            "postId": 2
-        },
-        {
-            "id": 12,
-            "title": "Where can I get some?",
-            "content": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour.",
-            "userId": 2,
-            "postId": 7
-        },
-        {
-            "id": 13,
-            "title": "Where can I get some?",
-            "content": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour.",
-            "userId": 2,
-            "postId": 1
-        },
-        {
-            "id": 14,
-            "title": "Where can I get some?",
-            "content": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour.",
-            "userId": 3,
-            "postId": 4
-        },
-        {
-            "id": 15,
-            "title": "Sample Commnet",
-            "content": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
-            "userId": 4,
-            "postId": 9
-        }
-    ],
-    "users": [
-        {
-            "id": 1,
-            "name": "reddy",
-            "username": "reddysridhar53",
-            "email": "reddysridhar53@gmail.com",
-            "organisation": "Toppr",
-            "bio": "Javascript Enthusiast... Impulsive to learning...",
-            "postIds": [1, 6]
-        },
-        {
-            "id": 2,
-            "name": "sridhar",
-            "username": "sridhar_reddy",
-            "email": "reddysridhar53@gmail.com",
-            "organisation": "Shaw",
-            "bio": "Javascript Enthusiast... Impulsive to learning...",
-            "postIds": [2,7]
-        },
-        {
-            "id": 3,
-            "name": "john",
-            "username": "john243779",
-            "email": "john243779@gmail.com",
-            "organisation": "Huddl",
-            "bio": "Javascript Enthusiast... Impulsive to learning...",
-            "postIds": [3,4,5]
-        },
-        {
-            "id": 4,
-            "name": "mark",
-            "username": "mark143",
-            "email": "mark143@hotmail.com",
-            "organisation": "Huddl AI",
-            "bio": "Javascript Enthusiast... Impulsive to learning...",
-            "postIds": [8,9]
-        }
-    ]
+    "month": {
+        "reportByYear": [],
+        "reportByMonth": [
+            {
+                "demand": 3.11,
+                "consumption": 53.3270,
+                "rank": 1440.00,
+                "day": 1,
+                "month": 10,
+                "year": 2020,
+                "timeZoneId": "America/New_York",
+                "requestDate": "2020-10-05T14:00",
+                "primeData": false
+            },
+            {
+                "demand": 3.08,
+                "consumption": 59.6560,
+                "rank": 1440.97,
+                "day": 2,
+                "month": 10,
+                "year": 2020,
+                "timeZoneId": "America/New_York",
+                "requestDate": "2020-10-05T14:00",
+                "primeData": true
+            },
+            {
+                "demand": 2.82,
+                "consumption": 55.3720,
+                "rank": 1441.00,
+                "day": 3,
+                "month": 10,
+                "year": 2020,
+                "timeZoneId": "America/New_York",
+                "requestDate": "2020-10-05T14:00",
+                "primeData": true
+            },
+            {
+                "demand": 2.87,
+                "consumption": 55.6380,
+                "rank": 1438.00,
+                "day": 4,
+                "month": 10,
+                "year": 2020,
+                "timeZoneId": "America/New_York",
+                "requestDate": "2020-10-05T14:00",
+                "primeData": true
+            },
+            {
+                "demand": 0,
+                "consumption": 0,
+                "rank": 0,
+                "day": 5,
+                "month": 10,
+                "year": 2020,
+                "timeZoneId": "America/New_York",
+                "requestDate": "2020-10-05T14:00",
+                "primeData": false
+            },
+            {
+                "demand": 0,
+                "consumption": 0,
+                "rank": 0,
+                "day": 6,
+                "month": 10,
+                "year": 2020,
+                "timeZoneId": "America/New_York",
+                "requestDate": "2020-10-05T14:00",
+                "primeData": false
+            },
+            {
+                "demand": 0,
+                "consumption": 0,
+                "rank": 0,
+                "day": 7,
+                "month": 10,
+                "year": 2020,
+                "timeZoneId": "America/New_York",
+                "requestDate": "2020-10-05T14:00",
+                "primeData": false
+            },
+            {
+                "demand": 0,
+                "consumption": 0,
+                "rank": 0,
+                "day": 8,
+                "month": 10,
+                "year": 2020,
+                "timeZoneId": "America/New_York",
+                "requestDate": "2020-10-05T14:00",
+                "primeData": false
+            },
+            {
+                "demand": 0,
+                "consumption": 0,
+                "rank": 0,
+                "day": 9,
+                "month": 10,
+                "year": 2020,
+                "timeZoneId": "America/New_York",
+                "requestDate": "2020-10-05T14:00",
+                "primeData": false
+            },
+            {
+                "demand": 0,
+                "consumption": 0,
+                "rank": 0,
+                "day": 10,
+                "month": 10,
+                "year": 2020,
+                "timeZoneId": "America/New_York",
+                "requestDate": "2020-10-05T14:00",
+                "primeData": false
+            },
+            {
+                "demand": 0,
+                "consumption": 0,
+                "rank": 0,
+                "day": 11,
+                "month": 10,
+                "year": 2020,
+                "timeZoneId": "America/New_York",
+                "requestDate": "2020-10-05T14:00",
+                "primeData": false
+            },
+            {
+                "demand": 0,
+                "consumption": 0,
+                "rank": 0,
+                "day": 12,
+                "month": 10,
+                "year": 2020,
+                "timeZoneId": "America/New_York",
+                "requestDate": "2020-10-05T14:00",
+                "primeData": false
+            },
+            {
+                "demand": 0,
+                "consumption": 0,
+                "rank": 0,
+                "day": 13,
+                "month": 10,
+                "year": 2020,
+                "timeZoneId": "America/New_York",
+                "requestDate": "2020-10-05T14:00",
+                "primeData": false
+            },
+            {
+                "demand": 0,
+                "consumption": 0,
+                "rank": 0,
+                "day": 14,
+                "month": 10,
+                "year": 2020,
+                "timeZoneId": "America/New_York",
+                "requestDate": "2020-10-05T14:00",
+                "primeData": false
+            },
+            {
+                "demand": 0,
+                "consumption": 0,
+                "rank": 0,
+                "day": 15,
+                "month": 10,
+                "year": 2020,
+                "timeZoneId": "America/New_York",
+                "requestDate": "2020-10-05T14:00",
+                "primeData": false
+            },
+            {
+                "demand": 0,
+                "consumption": 0,
+                "rank": 0,
+                "day": 16,
+                "month": 10,
+                "year": 2020,
+                "timeZoneId": "America/New_York",
+                "requestDate": "2020-10-05T14:00",
+                "primeData": false
+            },
+            {
+                "demand": 0,
+                "consumption": 0,
+                "rank": 0,
+                "day": 17,
+                "month": 10,
+                "year": 2020,
+                "timeZoneId": "America/New_York",
+                "requestDate": "2020-10-05T14:00",
+                "primeData": false
+            },
+            {
+                "demand": 0,
+                "consumption": 0,
+                "rank": 0,
+                "day": 18,
+                "month": 10,
+                "year": 2020,
+                "timeZoneId": "America/New_York",
+                "requestDate": "2020-10-05T14:00",
+                "primeData": false
+            },
+            {
+                "demand": 0,
+                "consumption": 0,
+                "rank": 0,
+                "day": 19,
+                "month": 10,
+                "year": 2020,
+                "timeZoneId": "America/New_York",
+                "requestDate": "2020-10-05T14:00",
+                "primeData": false
+            },
+            {
+                "demand": 0,
+                "consumption": 0,
+                "rank": 0,
+                "day": 20,
+                "month": 10,
+                "year": 2020,
+                "timeZoneId": "America/New_York",
+                "requestDate": "2020-10-05T14:00",
+                "primeData": false
+            },
+            {
+                "demand": 0,
+                "consumption": 0,
+                "rank": 0,
+                "day": 21,
+                "month": 10,
+                "year": 2020,
+                "timeZoneId": "America/New_York",
+                "requestDate": "2020-10-05T14:00",
+                "primeData": false
+            },
+            {
+                "demand": 0,
+                "consumption": 0,
+                "rank": 0,
+                "day": 22,
+                "month": 10,
+                "year": 2020,
+                "timeZoneId": "America/New_York",
+                "requestDate": "2020-10-05T14:00",
+                "primeData": false
+            },
+            {
+                "demand": 0,
+                "consumption": 0,
+                "rank": 0,
+                "day": 23,
+                "month": 10,
+                "year": 2020,
+                "timeZoneId": "America/New_York",
+                "requestDate": "2020-10-05T14:00",
+                "primeData": false
+            },
+            {
+                "demand": 0,
+                "consumption": 0,
+                "rank": 0,
+                "day": 24,
+                "month": 10,
+                "year": 2020,
+                "timeZoneId": "America/New_York",
+                "requestDate": "2020-10-05T14:00",
+                "primeData": false
+            },
+            {
+                "demand": 0,
+                "consumption": 0,
+                "rank": 0,
+                "day": 25,
+                "month": 10,
+                "year": 2020,
+                "timeZoneId": "America/New_York",
+                "requestDate": "2020-10-05T14:00",
+                "primeData": false
+            },
+            {
+                "demand": 0,
+                "consumption": 0,
+                "rank": 0,
+                "day": 26,
+                "month": 10,
+                "year": 2020,
+                "timeZoneId": "America/New_York",
+                "requestDate": "2020-10-05T14:00",
+                "primeData": false
+            },
+            {
+                "demand": 0,
+                "consumption": 0,
+                "rank": 0,
+                "day": 27,
+                "month": 10,
+                "year": 2020,
+                "timeZoneId": "America/New_York",
+                "requestDate": "2020-10-05T14:00",
+                "primeData": false
+            },
+            {
+                "demand": 0,
+                "consumption": 0,
+                "rank": 0,
+                "day": 28,
+                "month": 10,
+                "year": 2020,
+                "timeZoneId": "America/New_York",
+                "requestDate": "2020-10-05T14:00",
+                "primeData": false
+            },
+            {
+                "demand": 0,
+                "consumption": 0,
+                "rank": 0,
+                "day": 29,
+                "month": 10,
+                "year": 2020,
+                "timeZoneId": "America/New_York",
+                "requestDate": "2020-10-05T14:00",
+                "primeData": false
+            },
+            {
+                "demand": 0,
+                "consumption": 0,
+                "rank": 0,
+                "day": 30,
+                "month": 10,
+                "year": 2020,
+                "timeZoneId": "America/New_York",
+                "requestDate": "2020-10-05T14:00",
+                "primeData": false
+            },
+            {
+                "demand": 0,
+                "consumption": 0,
+                "rank": 0,
+                "day": 31,
+                "month": 10,
+                "year": 2020,
+                "timeZoneId": "America/New_York",
+                "requestDate": "2020-10-05T14:00",
+                "primeData": false
+            }
+        ],
+        "reportByDay": [],
+        "reportByHour": []
+    },
+    "year": {},
+    "day": {
+        "reportByYear": [],
+        "reportByMonth": [],
+        "reportByDay": [
+            {
+                "demand": 2.77,
+                "consumption": 1.3330,
+                "rank": 60.00,
+                "hour": 0,
+                "day": 5,
+                "month": 10,
+                "year": 2020,
+                "timeZoneId": "America/New_York",
+                "requestDate": "2020-10-05T14:00",
+                "primeData": false
+            },
+            {
+                "demand": 2.81,
+                "consumption": 2.6460,
+                "rank": 60.00,
+                "hour": 1,
+                "day": 5,
+                "month": 10,
+                "year": 2020,
+                "timeZoneId": "America/New_York",
+                "requestDate": "2020-10-05T14:00",
+                "primeData": false
+            },
+            {
+                "demand": 2.83,
+                "consumption": 2.7165,
+                "rank": 61.00,
+                "hour": 2,
+                "day": 5,
+                "month": 10,
+                "year": 2020,
+                "timeZoneId": "America/New_York",
+                "requestDate": "2020-10-05T14:00",
+                "primeData": true
+            },
+            {
+                "demand": 2.87,
+                "consumption": 2.6484,
+                "rank": 60.00,
+                "hour": 3,
+                "day": 5,
+                "month": 10,
+                "year": 2020,
+                "timeZoneId": "America/New_York",
+                "requestDate": "2020-10-05T14:00",
+                "primeData": false
+            },
+            {
+                "demand": 2.81,
+                "consumption": 2.6347,
+                "rank": 60.00,
+                "hour": 4,
+                "day": 5,
+                "month": 10,
+                "year": 2020,
+                "timeZoneId": "America/New_York",
+                "requestDate": "2020-10-05T14:00",
+                "primeData": false
+            },
+            {
+                "demand": 2.73,
+                "consumption": 1.3561,
+                "rank": 60.00,
+                "hour": 5,
+                "day": 5,
+                "month": 10,
+                "year": 2020,
+                "timeZoneId": "America/New_York",
+                "requestDate": "2020-10-05T14:00",
+                "primeData": false
+            },
+            {
+                "demand": 2.77,
+                "consumption": 2.6284,
+                "rank": 60.00,
+                "hour": 6,
+                "day": 5,
+                "month": 10,
+                "year": 2020,
+                "timeZoneId": "America/New_York",
+                "requestDate": "2020-10-05T14:00",
+                "primeData": false
+            },
+            {
+                "demand": 2.70,
+                "consumption": 2.5727,
+                "rank": 60.00,
+                "hour": 7,
+                "day": 5,
+                "month": 10,
+                "year": 2020,
+                "timeZoneId": "America/New_York",
+                "requestDate": "2020-10-05T14:00",
+                "primeData": false
+            },
+            {
+                "demand": 2.75,
+                "consumption": 2.3655,
+                "rank": 60.00,
+                "hour": 8,
+                "day": 5,
+                "month": 10,
+                "year": 2020,
+                "timeZoneId": "America/New_York",
+                "requestDate": "2020-10-05T14:00",
+                "primeData": false
+            },
+            {
+                "demand": 2.83,
+                "consumption": 2.1875,
+                "rank": 60.00,
+                "hour": 9,
+                "day": 5,
+                "month": 10,
+                "year": 2020,
+                "timeZoneId": "America/New_York",
+                "requestDate": "2020-10-05T14:00",
+                "primeData": false
+            },
+            {
+                "demand": 2.88,
+                "consumption": 2.7187,
+                "rank": 60.00,
+                "hour": 10,
+                "day": 5,
+                "month": 10,
+                "year": 2020,
+                "timeZoneId": "America/New_York",
+                "requestDate": "2020-10-05T14:00",
+                "primeData": false
+            },
+            {
+                "demand": 0,
+                "consumption": 0,
+                "rank": 0,
+                "hour": 11,
+                "day": 5,
+                "month": 10,
+                "year": 2020,
+                "timeZoneId": "America/New_York",
+                "requestDate": "2020-10-05T14:00",
+                "primeData": false
+            },
+            {
+                "demand": 0,
+                "consumption": 0,
+                "rank": 0,
+                "hour": 12,
+                "day": 5,
+                "month": 10,
+                "year": 2020,
+                "timeZoneId": "America/New_York",
+                "requestDate": "2020-10-05T14:00",
+                "primeData": false
+            },
+            {
+                "demand": 0,
+                "consumption": 0,
+                "rank": 0,
+                "hour": 13,
+                "day": 5,
+                "month": 10,
+                "year": 2020,
+                "timeZoneId": "America/New_York",
+                "requestDate": "2020-10-05T14:00",
+                "primeData": false
+            },
+            {
+                "demand": 0,
+                "consumption": 0,
+                "rank": 0,
+                "hour": 14,
+                "day": 5,
+                "month": 10,
+                "year": 2020,
+                "timeZoneId": "America/New_York",
+                "requestDate": "2020-10-05T14:00",
+                "primeData": false
+            },
+            {
+                "demand": 0,
+                "consumption": 0,
+                "rank": 0,
+                "hour": 15,
+                "day": 5,
+                "month": 10,
+                "year": 2020,
+                "timeZoneId": "America/New_York",
+                "requestDate": "2020-10-05T14:00",
+                "primeData": false
+            },
+            {
+                "demand": 0,
+                "consumption": 0,
+                "rank": 0,
+                "hour": 16,
+                "day": 5,
+                "month": 10,
+                "year": 2020,
+                "timeZoneId": "America/New_York",
+                "requestDate": "2020-10-05T14:00",
+                "primeData": false
+            },
+            {
+                "demand": 0,
+                "consumption": 0,
+                "rank": 0,
+                "hour": 17,
+                "day": 5,
+                "month": 10,
+                "year": 2020,
+                "timeZoneId": "America/New_York",
+                "requestDate": "2020-10-05T14:00",
+                "primeData": false
+            },
+            {
+                "demand": 0,
+                "consumption": 0,
+                "rank": 0,
+                "hour": 18,
+                "day": 5,
+                "month": 10,
+                "year": 2020,
+                "timeZoneId": "America/New_York",
+                "requestDate": "2020-10-05T14:00",
+                "primeData": false
+            },
+            {
+                "demand": 0,
+                "consumption": 0,
+                "rank": 0,
+                "hour": 19,
+                "day": 5,
+                "month": 10,
+                "year": 2020,
+                "timeZoneId": "America/New_York",
+                "requestDate": "2020-10-05T14:00",
+                "primeData": false
+            },
+            {
+                "demand": 0,
+                "consumption": 0,
+                "rank": 0,
+                "hour": 20,
+                "day": 5,
+                "month": 10,
+                "year": 2020,
+                "timeZoneId": "America/New_York",
+                "requestDate": "2020-10-05T14:00",
+                "primeData": false
+            },
+            {
+                "demand": 0,
+                "consumption": 0,
+                "rank": 0,
+                "hour": 21,
+                "day": 5,
+                "month": 10,
+                "year": 2020,
+                "timeZoneId": "America/New_York",
+                "requestDate": "2020-10-05T14:00",
+                "primeData": false
+            },
+            {
+                "demand": 0,
+                "consumption": 0,
+                "rank": 0,
+                "hour": 22,
+                "day": 5,
+                "month": 10,
+                "year": 2020,
+                "timeZoneId": "America/New_York",
+                "requestDate": "2020-10-05T14:00",
+                "primeData": false
+            },
+            {
+                "demand": 0,
+                "consumption": 0,
+                "rank": 0,
+                "hour": 23,
+                "day": 5,
+                "month": 10,
+                "year": 2020,
+                "timeZoneId": "America/New_York",
+                "requestDate": "2020-10-05T14:00",
+                "primeData": false
+            }
+        ],
+        "reportByHour": []
+    },
+    "hour": {}
 }
